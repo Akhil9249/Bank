@@ -1,0 +1,12 @@
+.user-ogin-background {
+    background-image: url('../assets/bgbank.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+  }
+
+  .user-ogin-grad {
+    background-image: linear-gradient(to right,rgb(0, 238, 255), yellow);
+  }
+  
